@@ -14,7 +14,7 @@ I have Written the simple tutorial for git banner, new staffs can access it unde
 
 https://help.github.com/articles/set-up-git/
 
-The git is a very powerfull and complicated version control tool, nobody could master it completely, so the reference book is very essencial for both new users and experienced users. I strongly recommend [<Pro Git>](https://git-scm.com/book/zh/v2) for mohism staffs.
+The git is a very powerfull and complicated version control tool, nobody could master it completely, so the reference book is very essencial for both new users and experienced users. I strongly recommend [Pro Git](https://git-scm.com/book/zh/v2) for mohism staffs.
 
 ## 2.2 How to use Internet scientifically ##
 
