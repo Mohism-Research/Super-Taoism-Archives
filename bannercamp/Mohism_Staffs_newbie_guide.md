@@ -18,6 +18,14 @@ The git is a very powerfull and complicated version control tool, nobody could m
 
 ## 2.2 How to use Internet scientifically ##
 
+Accessing Google is very essential for software engineers and academics, but due to some political issues google services have been forbiden in mainland area for years. Therefore Setting VPN channel via Shadowsock becomes very important.
+
+Setting up VPN via Shadowsocks includes Servier side works and client side works. Server side works need higher undertanding of Linux, so I only post the client tutorial below:
+
+https://shadowsocks.com.hk/client.html
+
+There are many platforms implementations of shadownsocks clients. The configuraion is simple, if you already have a workable account.
+
 ## 2.3 The usage of Linux desktop ##
 
 # 3. Physical issues #
