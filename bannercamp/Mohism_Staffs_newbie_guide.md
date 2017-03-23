@@ -5,9 +5,15 @@
 This tutorial is mainly used for training very junior mohism staffs who will become the tough warriors in the near future. The trainning works can be classified into three categoties: **Spiritually powerfull**, **Technically mature** and **Physically strong**.
 
 # 1. Spiritual issues #
-We can use the six words secret to strong the our Spirit but we need practise **everyday** 
-https://github.com/Mohism-Research/Super-Taoism-Archives/blob/master/six-words-secret.md
-The method can set emotions at peace　although　it seem very easy!It can fuck the weakness out of body.
+
+The spiritual force is very powerfull, somtimes it's stronger than the nuclear bomb if the method is applied appropriately. The spiritual forces have several original sources: one is religion, another is philosophical thinking. The religion is little far behand the modern society, but the philosophy is never out of time. Now the two Chinese traditional phylosophy, Taoism and Mohism. Taosim is for self-management and keeping healthy and long-living. Mohism is for team-working and team descpline establishment.
+
+## 1.1 Taonism ##
+
+[The six words secret](https://github.com/Mohism-Research/Super-Taoism-Archives/blob/master/six-words-secret.md) can be used to boost our spiritual force, importantly we need practise it **everyday**. The method can make our emotions more peaceful　although　it seems very easy! It can get rid of the weakness from our bodies.
+
+## 1.2 Mohism ##
+
 # 2. Technical issues #
 
 ## 2.1 The usage of git and github ##
