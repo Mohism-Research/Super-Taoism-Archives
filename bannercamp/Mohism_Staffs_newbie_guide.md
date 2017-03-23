@@ -6,7 +6,7 @@ This tutorial is mainly used for training very junior mohism staffs who will bec
 
 # 1. Spiritual issues #
 
-The spiritual force is very powerfull, somtimes it's stronger than the nuclear bomb if the method is applied appropriately. The spiritual forces have several original sources: one is religion, another is philosophical thinking. The religion is little far behand the modern society, but the philosophy is never out of time. Now the two Chinese traditional phylosophy, Taoism and Mohism. Taoism is for self-management and keeping healthy and long-living. Mohism is for team-working and team descpline establishment.
+The spiritual force is very powerfull, somtimes it's stronger than the nuclear bomb if the method is applied appropriately. The spiritual forces have several original sources: one is religion, another is philosophical thinking. The religion is little far behand the modern society, but the philosophy is never out of time. Now we focus the two Chinese traditional phylosophy: Taoism and Mohism. Taoism is for self-management and keeping healthy and long-living. Mohism is for team-working and team descpline establishment.
 
 ## 1.1 Taoism ##
 
