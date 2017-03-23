@@ -5,7 +5,9 @@
 This tutorial is mainly used for training very junior mohism staffs who will become the tough warriors in the near future. The trainning works can be classified into three categoties: **Spiritually powerfull**, **Technically mature** and **Physically strong**.
 
 # 1. Spiritual issues #
-
+We can use the six words secret to strong the our Spirit but we need practise **everyday** 
+https://github.com/Mohism-Research/Super-Taoism-Archives/blob/master/six-words-secret.md
+The method can set emotions at peace　although　it seem very easy!It can fuck the weakness out of body.
 # 2. Technical issues #
 
 ## 2.1 The usage of git and github ##
