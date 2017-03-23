@@ -51,3 +51,27 @@ It's a really wonderfull literature in educating new programmers, it's written b
 ## 3.1 20 minutes sports per day ##
 
 ## 3.2 Physical tests ##
+
+# 4. Focus #
+
+Like Magnifying glass focus at one point .Donot switch task in our brain.
+
+Set target Do One thing at one time. The less and more power.
+
+we should refresh the rubish.
+
+The Hotter It Gets, The More Focused The Winner Becomes
+
+Focus,Focus,Focus and then there is a breakout!!!
+
+Fool -----Distraction Is The Loser’s Companion 
+
+If You Lose Focus You’ll Be Blinded To The Truth and nature.
+
+![](https://github.com/Mohism-Research/Super-Taoism-Archives/blob/master/bannercamp/How-To-Start-A-Fire-Using-Ice.jpg?raw=true)
+
+![](https://github.com/Mohism-Research/Super-Taoism-Archives/blob/master/bannercamp/magnifying-glass-burning.jpg?raw=true)
+
+ <img src="https://github.com/Mohism-Research/Super-Taoism-Archives/blob/master/bannercamp/solar-feature-1.jpg?raw=true"　width="400" height="400" />
+
+
