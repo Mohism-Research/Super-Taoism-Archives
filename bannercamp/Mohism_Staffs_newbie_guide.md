@@ -70,8 +70,6 @@ If You Lose Focus You’ll Be Blinded To The Truth and nature.
 
 ![](https://github.com/Mohism-Research/Super-Taoism-Archives/blob/master/bannercamp/How-To-Start-A-Fire-Using-Ice.jpg?raw=true)
 
-![](https://github.com/Mohism-Research/Super-Taoism-Archives/blob/master/bannercamp/magnifying-glass-burning.jpg?raw=true)
-
- <img src="https://github.com/Mohism-Research/Super-Taoism-Archives/blob/master/bannercamp/solar-feature-1.jpg?raw=true"　width="400" height="400" />
-
-
+![](https://github.com/Mohism-Research/Super-Taoism-Archives/blob/master/bannercamp/magnifying-glass-burning.jpg?raw=true
+)
+<img src="https://github.com/Mohism-Research/Super-Taoism-Archives/blob/master/bannercamp/solar-feature-1.jpg?raw=true" width="400" height="400" />
