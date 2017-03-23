@@ -28,6 +28,16 @@ There are many platforms implementations of shadownsocks clients. The configurai
 
 ## 2.3 The usage of Linux desktop ##
 
+If one wants to control Linux desktop, knowing some usual terminal commands is indispensable. In my opinion, the best study resource is [鸟哥的 Linux 私房菜](http://cn.linux.vbird.org/). The content of it is very handy and easy to understand. However, reading man pages is the senior users' tough road.
+
+## 2.4 Programming ##
+
+This is the most important skill to be a modern mohism staff, but there's no need much under this section. Because we already have the better tutorial for newbies:
+
+[How To Become A Hacker](http://catb.org/~esr/faqs/hacker-howto.html#basic_skills)
+
+It's a really wonderfull literature in educating new programmers, it's written by Eric Steven Raymond who is a very famous hacker in Free Software world.
+
 # 3. Physical issues #
 
 ## 3.1 20 minutes sports per day ##
