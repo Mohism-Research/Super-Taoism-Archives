@@ -73,3 +73,12 @@ If You Lose Focus You’ll Be Blinded To The Truth and nature.
 ![](https://github.com/Mohism-Research/Super-Taoism-Archives/blob/master/bannercamp/magnifying-glass-burning.jpg?raw=true
 )
 <img src="https://github.com/Mohism-Research/Super-Taoism-Archives/blob/master/bannercamp/solar-feature-1.jpg?raw=true" width="400" height="400" />
+
+# 5. How To Slove Trouble Quickly(TODO)
+Small step
+Not Prepare 80% then to do ,if there is 20% we also can to 
+Do thing find Trouble and slove ---do again and slove －－－we call that **iteration**
+迭代是重复反馈过程的活动，其目的通常是为了接近并到达所需的目标或结果。每一次对过程的重复被称为一次“迭代”，而每一次迭代得到的结果会被用来作为下一次迭代的初始值。
+**所以每一次的迭代会越来越接近最终的目标。**
+迭代式开发，不要求每一个阶段的任务做的都是最完美的，而是明明知道还有很多不足的地方，却偏偏不去完善它，而是把主要功能先搭建起来为目的，以最短的时间，在最短的時間內，人員最少的情況下，快速的實現目標！
+http://www.cnblogs.com/-OYK/archive/2012/10/08/2714669.html
