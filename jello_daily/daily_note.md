@@ -132,3 +132,8 @@ and to do next goal
 
 吃了幾天的藥，中午睡了一個小時，起來**感覺腰又散了**
 
+* 癸丑
+
+早上運動　晚上渡劫　:sparkles: :sparkles: :sparkles: **最好需要拜師學藝了** :sparkles: :sparkles: :sparkles:
+
+* 甲寅
