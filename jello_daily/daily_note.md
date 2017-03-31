@@ -143,3 +143,7 @@ and to do next goal
 * 乙卯
 
 请某道长处理个事及to NL for name.donot finish.fuck
+
+* 丙辰
+
+跑步压退，前几日斗废了痛心。请来几位大神帮忙指导世界级难题！Intel的老伙伴再次请我去，谢绝了。没有路可回去！gp没有空，得继续。
