@@ -82,3 +82,7 @@ Do thing find Trouble and slove ---do again and slove －－－we call that **it
 **所以每一次的迭代会越来越接近最终的目标。**
 迭代式开发，不要求每一个阶段的任务做的都是最完美的，而是明明知道还有很多不足的地方，却偏偏不去完善它，而是把主要功能先搭建起来为目的，以最短的时间，在最短的時間內，人員最少的情況下，快速的實現目標！
 http://www.cnblogs.com/-OYK/archive/2012/10/08/2714669.html
+
+# Program
+
+http://stackoverflow.com
