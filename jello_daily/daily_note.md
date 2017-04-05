@@ -173,3 +173,9 @@ Alex 磨呈了半天才去公司,INTEL的朋友繼續幫忙處理,終於解決�
  * 辛酉
  
  For Performance and yatui milestone :rocket: :rocket: :rocket:
+
+* 壬戌
+
+Pls donot go to where the network is fucking slow. For assembly deeply.And back more early.
+
+And home performance is high now.good!
