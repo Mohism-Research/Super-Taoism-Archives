@@ -179,3 +179,7 @@ Alex 磨呈了半天才去公司,INTEL的朋友繼續幫忙處理,終於解決�
 Pls donot go to where the network is fucking slow. For assembly deeply.And back more early.
 
 And home performance is high now.good!
+
+* 癸亥
+ 
+ 無所事事的一天!道在怡紅院
