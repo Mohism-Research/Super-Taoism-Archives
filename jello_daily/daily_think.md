@@ -211,6 +211,6 @@ TODO DEEP THINK
 
 那麼如何解決－－book,perf high wx ?
 
-* 佛　道　佛教　道教　賢人　聖人　真人
+* 佛　道　佛教　道教　賢人 英　雄　豪　傑　聖人　真人
 
 TODO
