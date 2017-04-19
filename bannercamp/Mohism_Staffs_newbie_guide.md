@@ -87,3 +87,9 @@ http://www.cnblogs.com/-OYK/archive/2012/10/08/2714669.html
 
 GNU Plot
 http://stackoverflow.com
+
+# Share knowledge 
+
+https://www.quora.com/
+
+国外人强大的一个根本原因是他们乐于分享与乐与付出
