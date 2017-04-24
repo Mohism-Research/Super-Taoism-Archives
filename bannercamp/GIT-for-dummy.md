@@ -8,7 +8,7 @@ git clone https://github.com/Mohism-Research/Super-Taoism-Archives.git
 
 Then you find the STA directory appears in the current directory.
 
-# Update the repository#
+# Update the repository #
 
 Before starting your work on the repository or pushing your commits into the repository, you need to synchronise with the remote service, so you firstly enter the STA directory, then run the update command:
 
