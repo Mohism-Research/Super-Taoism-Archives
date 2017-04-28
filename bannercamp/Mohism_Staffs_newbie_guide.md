@@ -97,3 +97,7 @@ https://www.quora.com/
 # Design
 
 https://graphicriver.net/
+
+# Tech arch
+
+Django
