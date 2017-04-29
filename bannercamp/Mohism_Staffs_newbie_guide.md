@@ -101,3 +101,8 @@ https://graphicriver.net/
 # Tech arch
 
 Django
+
+#Python 
+
+pygtk，pyqt，wxpython, tkinter
+IronPython CPython 
