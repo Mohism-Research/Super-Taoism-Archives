@@ -4,4 +4,4 @@ The Super Taoism Archives(STA for abbreviation) is the repository used for colle
 
 **吾家法箓　上動天地九霄　下撼山川百嶽　吾之聖水　彼之毒藥　一家之言　切勿模仿**
 
-**如來大定 光化虹解 浩然正氣 **
+**如來大定 光化虹解 浩然正氣**
