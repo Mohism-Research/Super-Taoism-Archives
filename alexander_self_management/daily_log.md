@@ -24,4 +24,4 @@
 - 近日读《太乙金华宗旨》，尝试其回光之法，看似易练，其实难以做到心中空明。意识总会有思世俗之事。
 
 # 2017.5.17 #
-- Last weekend, I watched <Gaudians of Galaxy:2>. It's really awesome, although the first episode is little better. In this episode, star lord meet with his biological father:Ego. EGO is a kind of Alien with very powerfull capability! Actually, he is a planet whose core is his giant brain. It is said that his brain was formed naturally in the universe. Years passing by, the brain can control surrounding dusts and particles. Finally, the brain planet appeared! It's a wonderful fantasy, but it has theoretical fundamentals.   
+- Last weekend, I watched 《Gaudians of Galaxy:2》. It's a really awesome sifi move, although the first episode is little better. In this episode, star lord meet with his biological father:Ego. EGO is a kind of Alien with very powerfull capability! Actually, he is a planet whose core is his giant brain. It is said that his brain was formed naturally in the universe. Years passing by, the brain can control surrounding dusts and particles. Finally, the brain planet appeared! It's a wonderful fantasy, but it has theoretical fundamentals.   
