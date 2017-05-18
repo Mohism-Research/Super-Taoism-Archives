@@ -228,6 +228,9 @@
 
 需要重新update rule for myself
 
+* 乙巳
+>紅塵鍊心　和光同塵　從今而始　道術相合　浩然正氣
+離目標又近一步了 make the windows.So u r great
 
 * 庚戌
 >紅塵鍊心　和光同塵　從今而始　道術相合　浩然正氣
