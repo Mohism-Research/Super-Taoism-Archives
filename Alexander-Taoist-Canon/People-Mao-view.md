@@ -1,0 +1,11 @@
+# My Changing View On Mao #
+
+When I was a child, Mao was just a historical and political symbol for me, and I didn't have any interest on political issues.
+
+When I grow up, after researching some documents about the culture revolution, I have known some dark sides of MAO: his dictatorship, his cruelty, his killing, his skills of controlling people and his  ignoring of death of millions, I thought he is an evil completely.
+
+And now, after knowing more histories and current status of the world, I realized MAO is great politician who have done many fundamental works. There works are the basic prerequisites for becoming the top super nation. Although tens of millions of Chinese people died from 1950 to 1980 due to range of reasons, the nuclear weapon technology and aerospace technology had the great advances during these decades. And these giant stuffs are the solid assurance for the incoming great advances of economy. I don't mean that MAO can do well in economy, I just want to say MAO's job bring the prerequisite for it. Fortunately, his successor DENG also did a quite good job. MAO's contributions before 1949 was no doubt.
+
+By the way: regarding to Culture Revolution, I want to talk about my opinions on its future impact. Until now, this revolution is considered as the evil disaster for China. However, I think culture revolution may become the starting point of forming the new thinking theme of Chinese in the future. Confucianism has occupied Chinese brains for almost 2000 years, and this thinking stopped China entering the modern country. Although China has become the super power of the world, WE are still confusing in our deep hearts. We didn't know which stuff is our new beacon, I think Confucianism and Marxism are not. We need to continue with searching, mixing and creating. At least, culture revolution has destroy Confucianism, and the majority of Chinese also don't believe in Marxism. I think it's the positive effect of culture revolution.
+
+To be a politician, MAO is a great one. To be a person, MAO is a bastard. But this bastard's contributions to China can't be erased, just like the other two bastards in Chinese history:  Qin Shi Huang and Emperor Wu of Han.
