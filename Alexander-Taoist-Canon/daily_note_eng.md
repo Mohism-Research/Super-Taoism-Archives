@@ -5,3 +5,7 @@ Last weekend, I watched 《Gaudians of Galaxy:2》. It's a really awesome sifi m
 # 2017.5.23 #
 
 - The journey of pursuing Meta-Problem must be taken.
+
+# 2017.6.8 #
+
+The knowledge of Makefile have to be mastered by me! It became my obstacle so many times.
