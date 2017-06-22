@@ -29,3 +29,15 @@
 1. 什么都可能会失去，亲人也不例外，母亲病了很久，我亲眼看着她做手术，放疗化疗，吃药输液，可是无可奈何，今年清明前回家陪伴了将近一周后就去世了！看到她在夜里努力伸手取酸奶喝的动作和过程，我很难受同时觉得：一个人努力追求生命的状态和精神值得尊敬，原来很平常的喝水对一个病人来说都很奢侈！母亲为我和家里劳累半生，没有过上几天好生活，总是节省开支，身体因此病了，我很埋怨父母，但是同时我觉得我是有责任的，我没有照顾好母亲和这个家，我为家里做的太少了，自己以前一直都与世无争，现在感觉很耻辱和愧疚！愿母亲安息走好！我会照顾好自己和这个家的，以后要好好做人做事！
 2. 努力了一个月才算实现了抓取图片，中间有很多经验教训，值得反省！人到中年，想做一些事情真的很难，上有老下有小，顾及较多，心思很难专一，不过这也不是自己可以放松自己的理由和借口，你错过的太多，你就要自己补上需要的东西，自己不争，就不要抱怨命运和生活不好，不求精进的人连命运和神灵都不会可怜他的！
 3. 精神要积极，但是方法思路要正确，昨天为了一个plm 软件异常折腾一下午还是无解，心里就感觉到一股深深的挫败感！怎么这么难啊？到底是哪里有问题啊？pom not started，卸载，重装，还是有问题，不能正常登录，晚上吃饭都感觉没有精神！需要好好地调整状态，需要思考方法，不能一味地蛮干和乱干！
+##6.22总结##
+
+1. Reading，Writing，Speaking，Thinking，Doing ARE all necessary for a person to change self，I call the five method as DRSTW!
+
+2. THE two most important books：Focus is gold，and the one thing！ you can absorb much positive energy  from them.
+
+3. Other people ignore me,because I am poor and weak!
+
+4. Speech is a declaration,Speech is a Propaganda team, Speech IS A seeder
+
+5. THe sky and the earth are large,but has no heart,the people are small but have strong power!
+
