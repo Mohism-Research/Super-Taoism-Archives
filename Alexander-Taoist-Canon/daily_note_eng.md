@@ -9,3 +9,7 @@ Last weekend, I watched 《Gaudians of Galaxy:2》. It's a really awesome sifi m
 # 2017.6.8 #
 
 The knowledge of Makefile have to be mastered by me! It became my obstacle so many times.
+
+# 2017.6.27 #
+
+After the completion of Stochastic Process's test, I think I need dig more deep about Stochastic Process, it's a tough course whose contents are very new, the majoirty of its theories are developed in 20 centry. It mainly describe some Probability Models' behavior on the time dimention, such as: Poisson Process, Markov chains, Martingales. Besides research on that, I also have to learn advanced statistics in coming 3 months.
