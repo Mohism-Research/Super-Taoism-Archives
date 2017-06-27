@@ -106,3 +106,26 @@ Django
 
 pygtk，pyqt，wxpython, tkinter
 IronPython CPython 
+matplotlib, numpy, scipy, pandas https://www.zhihu.com/question/37180159
+
+[使用 Python 模块 re 实现解析小工具 ](https://www.ibm.com/developerworks/cn/opensource/os-cn-pythonre/)
+
+# Set up git repo on remote server #
+1.  On server
+
+git init --bare helloworld.git
+
+chown -R git:git helloworld.git
+
+
+
+2. On Local
+
+
+git remote add origin git@8.8.8.8:/xxx/helloworld.git
+
+git push origin master
+
+3. How to Add a remote branch:
+
+git push origin master:new_feature_name
