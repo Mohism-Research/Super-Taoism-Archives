@@ -23,4 +23,20 @@ easy_install --always-unzip Trac-0.12b1.zip
 ```
 ## References ##
 
-[ImportError: No module named trac](https://ruk.ca/content/importerror-no-module-named-trac) 
+[ImportError: No module named trac](https://ruk.ca/content/importerror-no-module-named-trac)
+
+# How to run command within nsis#
+
+In order to do some dirty works, I have to run a command during installing product. I have tried many methods that are all failed, because I am the new user of NSIS. After some investigations, I think the copy statements and running statements should be in the same section, as below: 
+
+```nsis
+Section "serverice"
+    ClearErrors
+    SetOutPath "$$INSTDIR"
+    file "mydick.exe"
+  
+    ExecWait '"$$INSTDIR\mydick.exe" -insert'
+SectionEnd
+```
+
+Finally, it worked. But I still don't know the reason, I guess that's the policy that NSIS designed. 
