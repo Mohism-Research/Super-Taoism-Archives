@@ -32,7 +32,7 @@ In order to do some dirty works, I have to run a command during installing produ
 ```nsis
 Section "serverice"
     ClearErrors
-    SetOutPath "$$INSTDIR"
+    SetOutPath "$INSTDIR"
     file "mydick.exe"
   
     ExecWait '"$$INSTDIR\mydick.exe" -insert'
