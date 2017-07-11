@@ -16,5 +16,9 @@
 # 6.28记录 #
 1. 下午：看了下颜色件管理的问题来由和基本思路
 2. 上午：想完成BOM整理的问题，但是感觉道有很多解决不了的问题，比如数据错误和异常无法及时确认和解决！
-=======
->>>>>>> b56e3b7d9327f09f6482025c242fa9dbe277a809
+# 7.11记录 #
+1. GNOME-schedule：the gnu network objet model environment
+用到了gnome的组件，所以安装不上
+2. metasploit ：专门的攻击工具开发平台，框架
+3. kail linux和 backtrack 都是专门的渗透系统！
+4. mingw： minimalist gnu for windows
