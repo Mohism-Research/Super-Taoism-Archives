@@ -39,4 +39,21 @@ Section "serverice"
 SectionEnd
 ```
 
-Finally, it worked. But I still don't know the reason, I guess that's the policy that NSIS designed. 
+Finally, it worked. But I still don't know the reason, I guess that's the policy that NSIS designed.
+
+# How to ssh into a VM guest using NAT #
+
+Maybe there's another way to do this, but in VirtualBox, VM's Network panel, click on advanced, click on Port Forwarding button. In there set up a rule whose protocol is TCP:
+
+```bash
+Host IP: 127.0.0.1
+Host Port: 2222
+Guest IP: 10.0.2.15
+Guest Port: 22
+```
+
+Then enable ssh in the guest, and I'm able to connect from the host using:
+
+```bash
+ssh -p 2222 user@127.0.0.1
+```
