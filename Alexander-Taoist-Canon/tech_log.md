@@ -57,3 +57,12 @@ Then enable ssh in the guest, and I'm able to connect from the host using:
 ```bash
 ssh -p 2222 user@127.0.0.1
 ```
+# How to build llvm&clang on Windows  64 bits #
+
+Besides the tutorial from http://clang.llvm.org/get_started.html, I must use Cygwin64bit as the command interface and run
+
+```bash
+ cmake -G "Visual Studio 15 2017 Win64" -t host=x64 ..
+```
+
+This command will generate the vs's project file correctly!
