@@ -16,6 +16,8 @@ From the offical tutorial, we know that there are three software packages requir
 
 - Prepare the source directory:
 
+Following previous instructions and offical instructions, the MozilaBuild package is located at "C:\mozilla-build", then the build environment need to be done by double clicking "start-shell.bat". The unix-like terminal is showed, therefore the next commands can be run.
+
 ```bash
 cd c:/
 mkdir mozilla-source
