@@ -1,6 +1,8 @@
 # Instructions for build Firefox on Windows #
 
-Recently, I needed to build the firefox browser from the source. I followed the officail tutorials from [Building Firefox for Windows](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions/Windows_Prerequisites), but it's partly userful. There are other problems that not mentioned in the tutoial will block your building, so I wrote this note to fill holes. By the way, the majority of the offical sites will not be repeated here, I just outline some important points, and I strongly suggest you read it firstly.
+Recently, I needed to build the firefox browser from the source. I followed the officail tutorials from [Building Firefox for Windows](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions/Windows_Prerequisites), but it's partly userful. There are other problems that not mentioned in the tutoial will block your building, so I wrote this note to fill holes. By the way, the majority of the offical sites will not be repeated here, I just outline some important points.
+
+** Therefore, the original offical tutorial from [Building Firefox for Windows](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions/Windows_Prerequisites) have to be read firstly!**
 
 # The Essential prerequisites #
 
