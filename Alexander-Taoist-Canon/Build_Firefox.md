@@ -46,13 +46,15 @@ After my own tries, the option 2 is better, what is the root cause I still don't
 
 ## Config the build system ##
 
-There is a sample file for configuring build located at "srcroot/browser/config/", call mozconfig. We'd better copy to the source root directory, then add some options to control build process.
+There is a sample file whose name is "mozconfig" for configuring build located at "$(firefox_src_root)/browser/config/". We'd better copy it to the source root directory, then add some options to control build process.
+
+- Copy the sample file into the srouce root directory:
 
 ```bash
 cp browser/config/mozconfig .
 ```
 
-Right now I only know how to modify this file to build the source for 64bit Windows, some other's options need more studies.
+Currently I only know how to modify this file to build the source for 64bit Windows, some other's options need more studies.
 
 The build may fail if your machine is configured with the wrong architecture. If you want to build 64-bit Firefox, add the two lines below to your mozconfig file:
 
