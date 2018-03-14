@@ -13,3 +13,7 @@ The knowledge of Makefile have to be mastered by me! It became my obstacle so ma
 # 2017.6.27 #
 
 After the completion of Stochastic Process's test, I think I need to dig more deep about Stochastic Process, it's a tough course whose contents are very new, the majoirty of its theories are developed in 20 centry. It mainly describe some Probability Models' behavior on the time dimention, such as: Poisson Process, Markov chains, Martingales. Besides research on that, I also have to learn advanced statistics in coming 3 months.
+
+# 2018.3.14 #
+
+Time flies fast! More than half year have passed since last write, it seems that I didn't make the great progress. Although I have completed five courses from deeplearning.ai, I think it's not enough. I want to write a small book to note the stuffs I learned from the courses.  $x^{(i)}$
