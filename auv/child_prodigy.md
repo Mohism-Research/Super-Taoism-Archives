@@ -8,6 +8,8 @@
 
 我们是神童无人机 Child Prodigy UAV！
 
+![uav](images/prodigy_logo.png  "Child Prodigy")
+
 我们是科学技术高峰的攀登者！
 我们是无人机行业的颠覆者！
 我们是中国素质教育的践行者！
