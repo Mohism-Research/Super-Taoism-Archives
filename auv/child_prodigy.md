@@ -15,7 +15,7 @@
 我们是中国素质教育的践行者！
 我们更是中华民族伟大复兴的先锋者！
 
-![uav](images/Chinese_up.jpeg  "Child Prodigy")![uav](images/Chinese_up.jpeg  "Child Prodigy")![uav](images/Chinese_up.jpeg  "Child Prodigy")
+![uav](images/Chinese_up.jpeg  "Child Prodigy")
 
 我们有业界出色的软件硬件研发团队。
 我们有技术精湛的飞控算法研发团队。
@@ -183,7 +183,7 @@ DroneCoin不仅仅是计算机的网络，更是人与组织的网络。经过�
 
 DroneCoin的回报奖励是根据六年的半衰期设定的（比特币的半衰期是四年），每个月就采样一次（比特币是四年采样一次）。对于DroneCoin来说，六年显然是一种更好的选择，因为这个方案将在3到9年内比其他的替代方案能多传播更多的tokens。我们认为这对在关键时期内的区块链的网络增长和对长远投资的回报奖励同样重要。比比特币更频繁地对分布进行采样会带来在区块奖励上更平滑的调整，同时也减少了对挖矿者的突然性的剧烈的影响。
 
-![Network Supply](images/token_supply.svg "Child Prodigy")
+![Network Supply](images/token_supply.jpeg "Child Prodigy")
 
 # 6 Dronecoin FAQ
 
