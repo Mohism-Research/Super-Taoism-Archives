@@ -17,3 +17,7 @@ After the completion of Stochastic Process's test, I think I need to dig more de
 # 2018.3.14 #
 
 Time flies fast! More than half year have passed since last write, it seems that I didn't make the great progress. Although I have completed five courses from deeplearning.ai, I think it's not enough. I want to write a small book to note the stuffs I learned from the courses.  $x^{(i)}$
+
+# 2018.06.07 #
+
+From now on, I will try my best to update this note everyday. Because I have not writen English essays for long time. Two months ago, I joined a Writing Community based on WeChat which is called as "007". The membership needs spending 400 RMB, then the 007er have to write an essay per week. It's a great community which can help me to tackle my procastination. However we almost write essays in Chinese. So I decided to write more English documents. Writing daily notes is just a starting point, I should write an official essay per week. 
