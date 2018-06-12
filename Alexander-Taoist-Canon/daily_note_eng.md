@@ -21,3 +21,7 @@ Time flies fast! More than half year have passed since last write, it seems that
 # 2018.06.07 #
 
 From now on, I will try my best to update this note everyday. Because I have not writen English essays for long time. Two months ago, I joined a Writing Community based on WeChat which is called as "007". The membership needs spending 400 RMB, then the 007er have to write an essay per week. It's a great community which can help me to tackle my procastination. However we almost write essays in Chinese. So I decided to write more English documents. Writing daily notes is just a starting point, I should write an official essay per week. 
+
+# 2018.06.12
+
+Last week, I created an English writing club from my 007 community. Driving people to write English essays was hard, because writing in non native-language is a very chanllenging thing for anyone. That is the reason why I always pushed myself to use English. I have plan: if our group could genertate around 10 highly qulified essays per month, we should try to public a monthly magazine using gitbook.
