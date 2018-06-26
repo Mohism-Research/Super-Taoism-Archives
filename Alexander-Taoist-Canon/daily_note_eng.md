@@ -25,3 +25,7 @@ From now on, I will try my best to update this note everyday. Because I have not
 # 2018.06.12
 
 Last week, I created an English writing club from my 007 community. Driving people to write English essays was hard, because writing in non native-language is a very chanllenging thing for anyone. That is the reason why I always pushed myself to use English. I have plan: if our group could genertate around 10 highly qulified essays per month, we should try to public a monthly magazine using gitbook.
+
+# 2018.06.26
+
+The steemit is a writing platform based on BlockChain, and I believe that bihu is copying steemit's whole idea. In order to write English articles, I registered an account on steemit. Now I found that it's hard to write one article without inspirations.
