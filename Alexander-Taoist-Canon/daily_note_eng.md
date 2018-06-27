@@ -29,3 +29,7 @@ Last week, I created an English writing club from my 007 community. Driving peop
 # 2018.06.26
 
 The steemit is a writing platform based on BlockChain, and I believe that bihu is copying steemit's whole idea. In order to write English articles, I registered an account on steemit. Now I found that it's hard to write one article without inspirations.
+
+# 2018.06.27
+
+Today is very hot, but the air quality is not bad. The sky is very blue as autumn's with some clouds. 
