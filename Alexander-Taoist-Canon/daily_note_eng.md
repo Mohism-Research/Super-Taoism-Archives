@@ -33,3 +33,7 @@ The steemit is a writing platform based on BlockChain, and I believe that bihu i
 # 2018.06.27
 
 Today is very hot, but the air quality is not bad. The sky is very blue as autumn's with some clouds. 
+
+# 2018.06.28
+
+Daily writing is a very chanlenging task for me. At present I don't afraid of writing, but finding topic is a little bit dfficult. But these days I figured out one method to write everyday, the Feynman technique. Using Feyman technique to write essays is not easy, firstly we need to absorb enough knowledge and have deep understanding of the contents that we want to write. I always want writing to boost my academic underatanding and technological improvements. But since join 007 community, I found that I was writing for writing. I need to change this situation.
