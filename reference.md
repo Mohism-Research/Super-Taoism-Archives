@@ -13,3 +13,4 @@
 * 红叶山古籍文库 古籍电子书图书馆 http://hongyeshan.com
 
 * The Opensource Project Site: https://www.theopensourcery.com/keepopen/
+* Can find some book and ppt https://zh.scribd.com
