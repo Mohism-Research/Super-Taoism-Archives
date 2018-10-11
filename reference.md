@@ -1,4 +1,4 @@
-* http://qihuangzhishu.com  
+* 岐黄之术 http://qihuangzhishu.com  
 * http://www.zysj.com.cn
 
 * Logo　Design https://creativemarket.com/
@@ -18,3 +18,5 @@
 * Free Logo Design https://logotypemaker.com/
 * 字体竖排转换器工作台 https://www.qt86.com/tools/shupai.php
 * Watermark https://www.watermarquee.com/watermark
+* 國學大師　http://www.guoxuedashi.com
+* 中国哲学书电子化计划 https://ctext.org 
