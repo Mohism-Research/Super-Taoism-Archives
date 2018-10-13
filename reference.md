@@ -20,6 +20,7 @@
 * Watermark https://www.watermarquee.com/watermark
 * 國學大師　http://www.guoxuedashi.com
 * 中国哲学书电子化计划 https://ctext.org 
-* 雅昌艺术品 auction.artron.net
+* 雅昌艺术品 www.artron.net
 * 孔夫子舊書　www.kongfz.com　
-*  维基文库 https://zh.wikisource.org/zh
+* 维基文库 https://zh.wikisource.org/zh
+* 国学数典籍　http://bbs.gxsd.com.cn
