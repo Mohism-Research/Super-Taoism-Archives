@@ -27,3 +27,5 @@
 * 影印古籍資料 sou-yun.com
 * 图像　https://www.deviantart.com/
 * 类似于当年的opendevices网站 https://www.cncf.io/ 可惜opendevices后来被丫MS acquire
+* Github Octoverse 报告 https://octoverse.github.com/
+× 云计算 https://www.cncf.io/ 
