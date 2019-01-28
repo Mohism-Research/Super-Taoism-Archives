@@ -26,3 +26,4 @@
 * 国学数典籍　http://bbs.gxsd.com.cn
 * 影印古籍資料 sou-yun.com
 * 图像　https://www.deviantart.com/
+* 类似于当年的opendevices网站 https://www.cncf.io/ 可惜opendevices后来被丫MS acquire
