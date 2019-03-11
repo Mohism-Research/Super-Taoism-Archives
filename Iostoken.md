@@ -14,3 +14,4 @@
 4. 在线进制转换 http://tool.oschina.net/hexconvert
 5. Amount to Send In most cases you should leave this as 0.保留**0**就可以
 6. Gas Limit **55663**左右就可以　或则保持默认值 
+let is fucking it
