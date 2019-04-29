@@ -35,4 +35,4 @@
 * Hacker news https://news.ycombinator.com/
 * 阿莫电子 https://www.amobbs.com
 * Linux devices http://linuxgizmos.com
-* CI Tool https://jenkins.io
+* CI Tool 持续集成自动化部署 https://jenkins.io
