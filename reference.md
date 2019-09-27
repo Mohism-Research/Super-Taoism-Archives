@@ -41,3 +41,4 @@
 * https://arxiv.org/
 * http://www.openailab.com/
 * https://www.linuxjournal.com
+* https://www.edacafe.com/
