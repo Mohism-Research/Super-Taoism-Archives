@@ -15,7 +15,7 @@
 * 中国古籍善本的扫描版 https://www.zhihu.com/question/21473830
 * 中国哲学书电子化计划 https://ctext.org 
 * 世界图书 https://www.wdl.org/en/
-
+* http://gujishuge.com/
 * 國學大師　http://www.guoxuedashi.com
 * 雅昌艺术品 www.artron.net
 * 孔夫子舊書　www.kongfz.com　
