@@ -50,3 +50,4 @@
 * https://www.linuxjournal.com
 * https://www.edacafe.com/
 * https://haoxiang.org/2013/12/face-recognition-detection-database/
+* http://www.qlzysd.com
