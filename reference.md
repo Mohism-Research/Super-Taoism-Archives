@@ -17,6 +17,7 @@
 * 中国哲学书电子化计划 https://ctext.org 
 * 世界图书 https://www.wdl.org/en/
 * http://gujishuge.com/
+* 殆知堂 http://www.daizhige.org/
 * 國學大師　http://www.guoxuedashi.com
 * 雅昌艺术品 www.artron.net
 * 孔夫子舊書　www.kongfz.com　
