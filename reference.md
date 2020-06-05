@@ -54,3 +54,5 @@
 * https://haoxiang.org/2013/12/face-recognition-detection-database/
 * http://www.qlzysd.com
 * https://www.64guabook.com
+* 科学网 www.sciencenet.cn
+* 今日科学 https://physicstoday.scitation.org
