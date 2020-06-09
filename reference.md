@@ -15,6 +15,7 @@
 * 维基文库 https://zh.wikisource.org/zh
 * 谷登堡计划 https://www.gutenberg.org/browse/languages/zh
 * 开放图书馆 https://openlibrary.org/
+* 道图书馆 http://www.taolibrary.com/
 * 中国古籍善本的扫描版 https://www.zhihu.com/question/21473830
 * 中国哲学书电子化计划 https://ctext.org 
 * 世界图书 https://www.wdl.org/en/
