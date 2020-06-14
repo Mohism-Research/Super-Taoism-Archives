@@ -59,3 +59,4 @@
 * https://www.64guabook.com
 * 科学网 www.sciencenet.cn
 * 今日科学 https://physicstoday.scitation.org
+* News of Indian www.hindustantimes.com
