@@ -61,4 +61,5 @@
 * 今日科学 https://physicstoday.scitation.org
 * News of Indian www.hindustantimes.com
 * Google Trends https://trends.google.com/
+* Google Jigsaw https://jigsaw.google.com/
 
