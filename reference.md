@@ -67,3 +67,5 @@
 * 水文系统 https://desktop.arcgis.com/zh-cn/arcmap/10.7/tools/spatial-analyst-toolbox/understanding-drainage-systems.htm
 * 知网 www.cnki.net
 * 维普网期刊 http://www.cqvip.com/
+* Reddit https://www.reddit.com/
+* Slashdot https://slashdot.org/
