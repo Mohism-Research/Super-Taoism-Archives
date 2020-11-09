@@ -69,3 +69,4 @@
 * 维普网期刊 http://www.cqvip.com/
 * Reddit https://www.reddit.com/
 * Slashdot https://slashdot.org/
+* Slack https://app.slack.com
