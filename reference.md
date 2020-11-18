@@ -74,3 +74,4 @@
 * 修真 http://www.xiuzhen123.com
 * 内丹 https://neigong.net/
 * 演易堂 http://iebooo.com
+* 大学数字图书馆 http://cadal.edu.cn
