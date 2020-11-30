@@ -4,3 +4,7 @@
 * https://discuss.ipfs.io/latest
 * https://github.com/filecoin-project/docs/wiki
 * https://docs.filecoin.io/get-started/lotus/
+* Benchmarks
+ * https://blockcast.cc/news/how-to-test-and-evaluate-filecoin-mining-hardware-2/
+ * https://filecoin-benchmarks.coinsummer.io/
+ * https://filecoin-benchmarks.on.fleek.co/
