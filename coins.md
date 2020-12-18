@@ -8,3 +8,5 @@
  * https://blockcast.cc/news/how-to-test-and-evaluate-filecoin-mining-hardware-2/
  * https://filecoin-benchmarks.coinsummer.io/
  * https://filecoin-benchmarks.on.fleek.co/
+* https://filfox.info/zh/rich-list
+* https://filfox.info/zh
