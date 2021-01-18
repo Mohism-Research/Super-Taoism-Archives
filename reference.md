@@ -77,3 +77,4 @@
 * 大学数字图书馆 http://cadal.edu.cn
 * 郭守敬望远镜 http://www.lamost.org/~yzhao/history/
 * 七秩龄童 http://www.gxfxwh.com/forum-235-1.html
+* Quanta https://doc.yutiansut.com/install_for_ubuntu
