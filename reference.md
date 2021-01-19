@@ -79,3 +79,4 @@
 * 七秩龄童 http://www.gxfxwh.com/forum-235-1.html
 * Quanta https://doc.yutiansut.com/install_for_ubuntu
   * https://www.joinquant.com/
+  * https://tushare.pro/
