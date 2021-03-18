@@ -1,3 +1,7 @@
+## 300 1
+## 200 2
+## 150 3
+
 * https://coinmarketcap.com/currencies/filecoin/
 * https://github.com/filecoin-project
 * https://www.reddit.com/r/ipfs/
