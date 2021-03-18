@@ -78,5 +78,7 @@
 * 郭守敬望远镜 http://www.lamost.org/~yzhao/history/
 * 七秩龄童 http://www.gxfxwh.com/forum-235-1.html
 * Quanta https://doc.yutiansut.com/install_for_ubuntu
-  * https://www.joinquant.com/
-  * https://tushare.pro/
+* https://www.joinquant.com/
+* https://tushare.pro/
+* 美国短信 https://smsreceivefree.com/
+
