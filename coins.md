@@ -13,3 +13,4 @@
 * https://icodrops.com/dao-maker/
 * https://www.altcoinbuzz.io/cryptocurrency-news/product-release/dao-maker-token-now-live-on-kucoin-and-gate/
 * https://awesome.makerdao.com
+* https://www.xt.com/
