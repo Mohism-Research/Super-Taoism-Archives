@@ -19,3 +19,4 @@
 * https://awesome.makerdao.com
 * https://www.xt.com/
 * https://www.crunchbase.com/organization/makerdao
+* https://discord.com
