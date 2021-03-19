@@ -21,3 +21,4 @@
 * https://www.crunchbase.com/organization/makerdao
 * https://discord.com
 * https://steemit.com/bitcoin/@dogeking/4-essential-tools-to-help-you-succeed-in-cryptocurrency
+* https://www.cryptorai.com/
