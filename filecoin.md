@@ -1,24 +1,53 @@
-FIL Economics
-The future of data storage
+## FIL Economics
+
+### The future of data storage
+
 Filecoin (FIL) serves as the native asset to the Filecoin blockchain and powers the data storage and data retrieval markets, which form the core of the Filecoin project. Economic incentives and disincentives are baked into the blockchain to produce the optimal number of storage and retrieval miners providing honest service to clients. The FIL supply is capped at 2 billion and will be released through block rewards over the subsequent decades.
 
-Token allocation
+![Token allocation](https://coinlist.co/assets/index/filecoin_index/token_economics/token_allocation-08d40a9803a7b91b6d922fe0e7a3d1c0951988bb82c6c00f6bda0cc8aef98bab.png)
+
 70%
+
 to Filecoin Miners
+
 Mining block reward
-For providing data storage service, maintaining the blockchain, distributing data, running contracts, and more.  
+
+For providing data storage service, maintaining the blockchain, distributing data, running contracts, and more.
+
+ 
+
 15%
+
 to Protocol Labs
+
 Genesis allocation, 6-year linear vesting
-For research, engineering, deployment, business development, marketing, distribution, and more.  
+
+For research, engineering, deployment, business development, marketing, distribution, and more.
+
+ 
+
 10%
+
 to Investors
+
 Genesis allocation, 6 month to 3 year linear vesting
-For funding network development, business development, partnerships, support, and more.  
+
+For funding network development, business development, partnerships, support, and more.
+
+ 
+
 5%
+
 to Filecoin Foundation
+
 Genesis allocation, 6-year linear vesting
+
 For long-term network governance, partner support, academic grants, public works, community building, etc
+
+
+
+
+
 
 
 December 10, 2020
