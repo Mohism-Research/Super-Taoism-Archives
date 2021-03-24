@@ -27,3 +27,4 @@
 * https://cryptorank.io/ico/public-mint
 * https://www.polkastarter.com/
 * https://cryptorank.io/upcoming-ico
+* 黑洞 https://filfox.info/zh/address/f099
