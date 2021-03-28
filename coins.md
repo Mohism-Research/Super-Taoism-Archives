@@ -29,6 +29,8 @@
 * https://cryptorank.io/upcoming-ico
 * 黑洞 https://filfox.info/zh/address/f099
 * https://ethgasstation.info/
+* https://filscan.io/
+* https://filfox.info/zh/rich-list
 
 
 Metamask 钱包
