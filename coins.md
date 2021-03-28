@@ -31,6 +31,7 @@
 * https://ethgasstation.info/
 * https://filscan.io/
 * https://filfox.info/zh/rich-list
+* https://filfox.info/zh/address/f02
 
 
 Metamask 钱包
