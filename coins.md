@@ -34,6 +34,7 @@
 * https://filfox.info/zh/address/f02
 * https://github.com/CoinSummer/filecoin
 * https://starpool.in/zh
+* https://coinmarketalert.com/frequency-price-alert/
 
 
 Metamask 钱包
