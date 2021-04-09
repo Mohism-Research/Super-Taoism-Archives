@@ -37,6 +37,7 @@
 * https://coinmarketalert.com/frequency-price-alert/
 * https://www.defibox.com/index
 * https://filpoll.io/poll/7
+* https://fgas.io/
 
 
 Metamask 钱包
