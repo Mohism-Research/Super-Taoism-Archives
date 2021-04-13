@@ -40,6 +40,9 @@
 * https://fgas.io/
 * keybase
 * https://www.chiaexplorer.com/
+* https://www.chiaexplorer.com/charts/coinSupply
+* https://chiadecentral.com
+* https://keybase.io/team/chia_network.public
 
 
 Metamask 钱包
