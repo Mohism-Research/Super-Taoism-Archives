@@ -45,6 +45,7 @@
 * https://keybase.io/team/chia_network.public
 * https://chiacalculator.com/
 * https://github.com/martomi/chiadog
+* https://keybase.io/team/chia_network.public
 
 
 Metamask 钱包
