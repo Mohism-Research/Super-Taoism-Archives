@@ -43,6 +43,7 @@
 * https://www.chiaexplorer.com/charts/coinSupply
 * https://chiadecentral.com
 * https://keybase.io/team/chia_network.public
+* https://chiacalculator.com/
 
 
 Metamask 钱包
