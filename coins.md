@@ -46,6 +46,8 @@
 * https://chiacalculator.com/
 * https://github.com/martomi/chiadog
 * https://keybase.io/team/chia_network.public
+* https://www.chia.net/faq/
+* https://chialisp.com/
 
 
 Metamask 钱包
