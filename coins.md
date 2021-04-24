@@ -48,6 +48,7 @@
 * https://keybase.io/team/chia_network.public
 * https://www.chia.net/faq/
 * https://chialisp.com/
+* https://zabo.com/use-cases/
 
 
 Metamask 钱包
