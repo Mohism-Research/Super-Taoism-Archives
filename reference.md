@@ -87,4 +87,5 @@
 *  https://icodrops.com/convergence/
 *  https://www.tomshardware.com/
 *  Mike hearn https://plan99.net/~mike/
+*  TechCrunch https://techcrunch.com/
 
