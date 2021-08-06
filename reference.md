@@ -88,4 +88,5 @@
 *  https://www.tomshardware.com/
 *  Mike hearn https://plan99.net/~mike/
 *  TechCrunch https://techcrunch.com/
+*  世界顶尖科学家协会 https://wlaforum.com/cn/aboutwla.htmlc
 
