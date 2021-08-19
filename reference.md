@@ -90,3 +90,4 @@
 *  TechCrunch https://techcrunch.com/
 *  世界顶尖科学家协会 https://wlaforum.com/cn/aboutwla.htmlc
 * Blockchain Companies https://builtin.com/blockchain/blockchain-companies-roundup
+* Filecoin store https://www.kinghash.com/el_GR/shopping-detail?id=216
