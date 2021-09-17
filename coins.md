@@ -1,7 +1,7 @@
 ## 300 1
 ## 200 2
 ## 150 3
-* 
+* https://www.blocktempo.com/physics-2045-about-solana-and-sbf-ray-mining/
 * https://earning.tw/what-is-sol/
 * Some knowledge https://coinmarketcap.com/alexandria/
 
