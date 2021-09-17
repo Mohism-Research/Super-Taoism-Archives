@@ -1,6 +1,7 @@
 ## 300 1
 ## 200 2
 ## 150 3
+* Some knowledge https://coinmarketcap.com/alexandria/
 
 * https://coinmarketcap.com/currencies/filecoin/
 * https://github.com/filecoin-project
