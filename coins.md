@@ -1,6 +1,8 @@
 ## 300 1
 ## 200 2
 ## 150 3
+* 
+* https://earning.tw/what-is-sol/
 * Some knowledge https://coinmarketcap.com/alexandria/
 
 * https://coinmarketcap.com/currencies/filecoin/
