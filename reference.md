@@ -94,3 +94,4 @@
 * https://www.filecoinmining.com/blog/overcome-the-challenges-of-a-new-filecoin-miner
 * linustechtips https://linustechtips.com/
 * Code call graphic https://www.scitools.com/
+* https://github.com/solid
