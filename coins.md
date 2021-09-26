@@ -53,6 +53,6 @@
 * https://www.chia.net/faq/
 * https://chialisp.com/
 * https://zabo.com/use-cases/
-
+* Mareket Research https://hackernoon.com/storagepedia-an-encyclopedia-of-5-blockchain-storage-platform-8aa13c630ace?ref=hackernoon.com
 
 Metamask 钱包
