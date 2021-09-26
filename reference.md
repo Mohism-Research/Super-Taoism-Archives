@@ -95,3 +95,4 @@
 * linustechtips https://linustechtips.com/
 * Code call graphic https://www.scitools.com/
 * https://github.com/solid
+* 静态网站生成器 https://jekyllrb.com/
