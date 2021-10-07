@@ -96,3 +96,5 @@
 * Code call graphic https://www.scitools.com/
 * https://github.com/solid
 * 静态网站生成器 https://jekyllrb.com/
+* 
+* 太极logo http://wallpapers4screen.com/en/download/21360/1024x640
