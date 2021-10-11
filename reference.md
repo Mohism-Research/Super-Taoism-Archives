@@ -99,3 +99,4 @@
 * 
 * 太极logo http://wallpapers4screen.com/en/download/21360/1024x640
 * The International Symposium on Computer Architecture  https://iscaconf.org/isca2021/
+* DIY electronics and kits **https://www.adafruit.com/
