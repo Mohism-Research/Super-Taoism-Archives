@@ -7,6 +7,3 @@
 - Weekdays(Monday -- Firday) don't drink hard alchole(Higher than 30%) in the evenning.
 - No more than 2 hours' TV watching per night.
 - Arrive at the office before 10:00 A.M
-
-Any item can't be done, the 10 yuan red packet will be punished.
- 读书难，读徐吧唧更难
