@@ -56,5 +56,6 @@
 * Mareket Research https://hackernoon.com/storagepedia-an-encyclopedia-of-5-blockchain-storage-platform-8aa13c630ace?ref=hackernoon.com
 * https://github.com/solid
 * https://starli.medium.com/zkp-deep-into-bellman-library-9b1bf52cb1a6
+* https://cryptopotato.com/ico-list/
 
 Metamask 钱包
