@@ -102,3 +102,4 @@
 * DIY electronics and kits **https://www.adafruit.com/
 * 测试集成环境 https://codecov.io 
 * https://www.bnymellon.com/emea/en.html
+* cpu list https://moepc.net/amd-epyc-sku-list/ 
