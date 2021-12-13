@@ -103,3 +103,4 @@
 * 测试集成环境 https://codecov.io 
 * https://www.bnymellon.com/emea/en.html
 * cpu list https://moepc.net/amd-epyc-sku-list/ 
+* Leo Koguan https://twitter.com/koguanleo
