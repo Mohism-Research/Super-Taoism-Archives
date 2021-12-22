@@ -7,3 +7,4 @@
 - Weekdays(Monday -- Firday) don't drink hard alchole(Higher than 30%) in the evenning.
 - No more than 2 hours' TV watching per night.
 - Arrive at the office before 10:00 A.M
+- 徐班级催🐂B
