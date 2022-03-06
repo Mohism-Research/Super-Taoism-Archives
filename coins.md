@@ -57,5 +57,6 @@
 * https://github.com/solid
 * https://starli.medium.com/zkp-deep-into-bellman-library-9b1bf52cb1a6
 * https://cryptopotato.com/ico-list/
+* https://snapshot.org/#/
 
 Metamask 钱包
