@@ -59,5 +59,6 @@
 * https://cryptopotato.com/ico-list/
 * https://snapshot.org/#/
 * www.openzeppelin.com
+* https://web3js.readthedocs.io/en/v1.7.1/
 
 Metamask 钱包
