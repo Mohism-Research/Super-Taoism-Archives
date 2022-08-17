@@ -127,4 +127,5 @@
 * 墨天轮 https://www.modb.pro/
 * https://www.v2ex.com/
 * 双飞八字 https://www.sf280.com/2022.php
+* some board pdf farnell.com/datasheets
 
