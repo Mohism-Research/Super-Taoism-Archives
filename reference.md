@@ -129,4 +129,5 @@
 * 双飞八字 https://www.sf280.com/2022.php
 * some board pdf farnell.com/datasheets
 * 96board  www.96boards.org
+* https://neverinstall.com/
 
