@@ -8,3 +8,4 @@
 - No more than 2 hours' TV watching per night.
 - Arrive at the office before 10:00 A.M
 - 徐班级催🐂B
+- 徐班级这货有点SB啊，这么久了还没发现🐂B
