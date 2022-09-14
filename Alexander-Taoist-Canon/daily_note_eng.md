@@ -37,3 +37,7 @@ Today is very hot, but the air quality is not bad. The sky is very blue as autum
 # 2018.06.28
 
 Daily writing is a very chanllenging task for me. At present I don't afraid of writing, but finding topic is a little bit dfficult for me. Fortunately these days I figured out one method to write everyday, the Feynman technique. Using Feyman technique to write essays is not easy, firstly we need to absorb enough knowledges and have deep understanding of the contents that we want to write. I always want writing to boost my academic underatanding and technological improvements. But since join 007 community, I found that I was writing for writing all the time. I need to change this situation. At least, daily writing on github is a good start.
+
+# 2022.09.09
+
+How time flies! It has been more than 4 years since last note. During these years, I have shift job, and learn FPGA technology. It's pretty not easy. However, My personal problem is still not solved.
