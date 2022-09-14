@@ -135,4 +135,5 @@
 * 书栈网 https://www.bookstack.cn/
 * 思维导图 https://coggle.it/
 * 专注力 https://stevepavlina.com/
+* 专注力中文网站 https://www.stevepavlina.cn/archives/2497
 
