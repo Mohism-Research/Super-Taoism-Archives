@@ -66,3 +66,9 @@ Besides the tutorial from http://clang.llvm.org/get_started.html, I must use Cyg
 ```
 
 This command will generate the vs's project file correctly!
+
+# How to commit the change from Windows on Linux
+
+```bash
+git config --global core.autocrlf input
+```
