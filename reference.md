@@ -144,3 +144,10 @@
 * 海报设计 Marketing Material [postermywall](https://www.postermywall.com/)  [canva](https://www.canva.com/) 
 * 高通开源 https://www.codeaurora.org/
 * vpn https://www.vpnkeep.com/
+
+
+* Slashdot https://slashdot.org/
+* Hacker news 国外咨询网站 https://news.ycombinator.com/
+
+
+
