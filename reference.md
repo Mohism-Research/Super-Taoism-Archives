@@ -149,6 +149,7 @@
 * Slashdot https://slashdot.org/
 * Hacker news 国外咨询网站 https://news.ycombinator.com/
 * https://www.solidot.org/
+* https://thenextweb.com/
 
 
 
