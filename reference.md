@@ -45,7 +45,7 @@
 * 那个图 https://www.linuxfoundation.org/blog/2017/08/successful-open-source-projects-common/
 * 动态显示github code submit Gource https://gource.io/
 * 天文数据 https://interesting-sky.china-vo.org/2019-solar-term/
-* Hacker news https://news.ycombinator.com/
+* Hacker news 国外咨询网站 https://news.ycombinator.com/
 * 阿莫电子 https://www.amobbs.com
 * Linux devices http://linuxgizmos.com
 * CI Tool 持续集成自动化部署 https://jenkins.io
