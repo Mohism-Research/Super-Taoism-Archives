@@ -134,6 +134,7 @@
 * 股票道器 https://github.com/TaoQuant 
 * 书栈网 https://www.bookstack.cn/
 * 思维导图 https://coggle.it/
+* 思维导图 [figma](https://www.figma.com/)
 * 专注力 https://stevepavlina.com/
 * 专注力中文网站 https://www.stevepavlina.cn/archives/2497
 * 飞机场 https://portal.shadowsocks.nz/index.php
