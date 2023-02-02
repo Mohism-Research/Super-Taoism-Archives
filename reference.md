@@ -152,6 +152,7 @@
 * https://www.solidot.org/
 * https://thenextweb.com/
 * https://sms-activate.org/
+* https://freertoskernel.asicfans.com/
 
 
 
