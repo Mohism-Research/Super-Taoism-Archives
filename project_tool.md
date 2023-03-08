@@ -17,3 +17,6 @@ https://www.ruanyifeng.com/blog/2019/03/agile-development.html
 Iterative development: the secret to great product launches, Pavlo Zinchenko
 Agile software development, Wikipedia
 
+
+
+集成版本控制(Git/SVN)、项目管理(Trac/Redmine)、代码质量(Sonar)、持续集成(Jenkins)
