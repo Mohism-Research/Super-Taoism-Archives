@@ -10,3 +10,8 @@
 敏捷开发 agile development 
 
 https://www.ruanyifeng.com/blog/2019/03/agile-development.html
+
+七、参考链接
+Iterative development: the secret to great product launches, Pavlo Zinchenko
+Agile software development, Wikipedia
+
