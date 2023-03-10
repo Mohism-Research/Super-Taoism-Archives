@@ -103,3 +103,28 @@ https://www.redmine.org/
 http://www.redmine.org.cn/demo.html
 
 
+
+
+$ gem sources --add https://gems.ruby-china.com/ --remove https://rubygems.org/
+$ gem sources -l
+https://gems.ruby-china.com
+# 确保只有 gems.ruby-china.com
+
+echo "ruby_url=https://cache.ruby-china.com/pub/ruby" > ~/.rvm/user/db
+
+
+
+
+
+# nslooup check the ip address
+185.199.108.133 raw.githubusercontent.com
+
+
+$ bundle config mirror.https://rubygems.org https://gems.ruby-china.com
+# 删除Bundle的一个镜像源
+$ bundle config --delete 'mirror.https://rubygems.org'
+
+
+
+
+
