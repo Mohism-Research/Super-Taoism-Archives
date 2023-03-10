@@ -64,3 +64,35 @@ pingcode
 
 Bug tracking and project management 
 
+
+
+
+
+
+
+Bug tracking and project management 
+
+
+
+
+
+https://www.demo.redmineup.com/my/page
+
+
+
+
+
+https://www.redmineplugins.cn/	
+
+
+
+https://zh-cn.redmine-x.com/redmine-project-templates
+
+
+
+https://www.redmine.org/plugins
+
+
+
+https://www.easyredmine.com/
+
