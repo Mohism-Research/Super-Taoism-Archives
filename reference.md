@@ -155,6 +155,7 @@
 * https://freertoskernel.asicfans.com/
 * https://www.geeksforgeeks.org
 * hue postman
+* https://www.midjourney.com/ logo 生成器
 
 
 
