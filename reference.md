@@ -97,7 +97,7 @@
 * Code call graphic https://www.scitools.com/
 * https://github.com/solid
 * 静态网站生成器 https://jekyllrb.com/
-* 
+* 静态网站生成器 https://vuepress.vuejs.org/zh/
 * 太极logo http://wallpapers4screen.com/en/download/21360/1024x640
 * The International Symposium on Computer Architecture  https://iscaconf.org/isca2021/
 * DIY electronics and kits **https://www.adafruit.com/
