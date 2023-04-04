@@ -164,6 +164,6 @@
 * Obsidian
 * markdown mindmap https://markmap.js.org/repl
 * Phusion Passenger 
-
+* usb installer https://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/
 
 
