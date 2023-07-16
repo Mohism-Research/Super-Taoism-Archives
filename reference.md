@@ -180,4 +180,5 @@
 * 修理 https://zh.ifixit.com/#
 * fengshui https://www.ydygfs.com/
 * 雇佣 https://www.freelancer.com/
+* 创作众筹平台 https://www.patreon.com/workshopnation
 
