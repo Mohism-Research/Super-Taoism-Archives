@@ -184,4 +184,5 @@
 * 可视化 https://observablehq.com/d/1f75f342999728ea
 * 林群院士 数学
 * 道藏电子化搜索 有好几个版本 https://www.kanripo.org/
+* 道藏电子化搜索 http://www.homeinmists.com/
 
