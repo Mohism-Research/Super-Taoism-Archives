@@ -187,3 +187,4 @@
 * 道藏电子化搜索 http://www.homeinmists.com/
 * 神機藏書.md
 * 氣功之家 https://chinaqigong.com/forum.php
+* 装机 https://arstechnica.com/civis/
