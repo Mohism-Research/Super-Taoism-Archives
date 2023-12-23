@@ -189,3 +189,5 @@
 * 氣功之家 https://chinaqigong.com/forum.php
 * 装机 https://arstechnica.com/civis/
 * awesome https://animagraffs.com/human-eye/
+* 电源测试 https://www.fcpowerup.com/review/psu-review/
+* 硬件论坛 https://www.chiphell.com/
