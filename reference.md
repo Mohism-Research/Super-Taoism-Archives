@@ -191,3 +191,4 @@
 * awesome https://animagraffs.com/human-eye/
 * 电源测试 https://www.fcpowerup.com/review/psu-review/
 * 硬件论坛 https://www.chiphell.com/
+* https://anthonygarvan.github.io/thousandstars/
