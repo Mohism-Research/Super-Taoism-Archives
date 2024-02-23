@@ -192,3 +192,4 @@
 * 电源测试 https://www.fcpowerup.com/review/psu-review/
 * 硬件论坛 https://www.chiphell.com/
 * https://anthonygarvan.github.io/thousandstars/
+* 投资 https://btcdayu.gitbook.io/dayu/
