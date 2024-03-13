@@ -151,7 +151,7 @@
 * Hacker news 国外咨询网站 https://news.ycombinator.com/
 * https://www.solidot.org/
 * https://thenextweb.com/
-* https://sms-activate.org/
+* sms https://sms-activate.org/
 * https://freertoskernel.asicfans.com/
 * https://www.geeksforgeeks.org
 * hue postman
