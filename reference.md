@@ -195,5 +195,6 @@
 * 投资 https://btcdayu.gitbook.io/dayu/
 * bitcoin 分析 https://platform.arkhamintelligence.com/
 * 黑手册 https://github.com/JelloHuang/darkhandbook
-* 空透查询 https://airdroptracker.notion.site
+* 空投查询 https://airdroptracker.notion.site
+* 銀河網開 https://galxe.com/
 
