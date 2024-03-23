@@ -197,4 +197,5 @@
 * 黑手册 https://github.com/JelloHuang/darkhandbook
 * 空投查询 https://airdroptracker.notion.site
 * 銀河網開 https://galxe.com/
-
+* 天梯图 https://www.videocardbenchmark.net/directCompute.html
+* smspool https://www-smspool-net.webpkgcache.com/doc/-/s/www.smspool.net/
