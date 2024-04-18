@@ -199,3 +199,4 @@
 * 銀河網開 https://galxe.com/
 * 天梯图 https://www.videocardbenchmark.net/directCompute.html
 * smspool https://www-smspool-net.webpkgcache.com/doc/-/s/www.smspool.net/
+* 可视化数据python版 dash https://plotly.com/get-demo/ 
