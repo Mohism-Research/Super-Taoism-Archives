@@ -202,3 +202,6 @@
 * 可视化数据python版 dash https://plotly.com/get-demo/ 
 * 遠程桌面 RustDesk
 * iplocate
+* markdown 美化网站 www.gitbook.io
+* 浏览器指纹 https://www.browserscan.net/
+* 論壇模板 openai elastic 等都在用 https://www.discourse.org/
