@@ -204,4 +204,5 @@
 * iplocate
 * markdown 美化网站 www.gitbook.io
 * 浏览器指纹 https://www.browserscan.net/
-* 論壇模板 openai elastic 等都在用 https://www.discourse.org/
+* 論壇模板 openai elastic數據搜索公司 等都在用 https://www.discourse.org/
+* openai community https://community.openai.com/
