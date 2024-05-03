@@ -5,7 +5,7 @@ Recently, I needed to build the firefox browser from the source. I followed the 
 **Therefore, the original offical tutorial from [Building Firefox for Windows](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions/Windows_Prerequisites) have to be read firstly!**
 
 # The Essential prerequisites #
-
+fuckkkkk
 From the offical tutorial, we know that there are three software packages required for building Firefox:
 
 1. Visual Studio 2017 or Visual Studio 2015, I strongly recommend the 2017's.
