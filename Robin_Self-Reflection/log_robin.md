@@ -23,16 +23,23 @@
 3. kail linux和 backtrack 都是专门的渗透系统！
 4. mingw： minimalist gnu for 
 # 2024.7.13 #
+
 1.配置SSH登录github（生成ssh key 公钥 私钥）
+
 ssh-keygen -t rsa -b 4096 -C "MY SSH key"
 ssh -T git@github.com
 ssh -add ~/.ssh/id_rsa
 ssh exit
+
 2.熟悉git命令和操作
+
 fork clone add commit branch remove status log push pull fetch
 git remote set-url origin git@github.com
 git remote origin https://github.com/my/xxx.git
+
 3.安装python编辑器和编译器工具  anaconda sublime 
+
 4.重新规划任务和目标，建立全新的信念和状态。
+
 重新开始准备接单，完成自我救赎和革命。
 我愿意力争自热，为大道活着，做出改变。
