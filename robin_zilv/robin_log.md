@@ -43,3 +43,15 @@ git remote origin https://github.com/my/xxx.git
 
 重新开始准备接单，完成自我救赎和革命。
 我愿意力争自热，为大道活着，做出改变。
+
+# 2024.7.16 #
+1.熟悉sublime下的安装和配置及编译运行py文件
+
+2.将filecodebox运行起来，没有错误
+asws服务器已经启动，uvicorn 运行起来，但是文件不能正常长上传，取件码不能生成！
+
+![上传失败](https://github.com/Mohism-Research/Super-Taoism-Archives/tree/master/robin_zilv/images/err上传失败.png)
+
+![输入取件码](https://github.com/Mohism-Research/Super-Taoism-Archives/tree/master/robin_zilv/images/输入取件码.png)
+
+
