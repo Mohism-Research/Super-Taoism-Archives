@@ -209,3 +209,5 @@
 * 國內linux 論壇 https://linux.do/
 * claude ai claude.ai
 * image ai stability.ai
+* Netdata prometheus+grafana+netdata+Thanos+Alertmanager+Consul
+* PDS Process Scheduler https://liquorix.net/
