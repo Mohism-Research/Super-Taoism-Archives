@@ -54,4 +54,31 @@ asws服务器已经启动，uvicorn 运行起来，但是文件不能正常长�
 
 ![输入取件码](https://github.com/Mohism-Research/Super-Taoism-Archives/tree/master/robin_zilv/images/输入取件码.png)
 
+# 2024.7.18 #
+
+1. 熟悉了git分支合并，合并冲突如何解决 
+
+git rabase 
+git commit -i 哈希值
+git merge <src branch>
+git add 冲突标记及提交
+--no-ff 
+--squash 自定义合并的行为
+
+2. issuse 和IRC
+
+3. repo和pro   good first issue + help wanted ， action， PR，contrbution
+
+4. 再次将既有的代码进行优化和debug，改进调试方法，提升效率和准确性。消除了一些隐藏的bug，并且建立了错误的检测和标识，以及最终结果的不同维度的统计分析。
+
+# 2024.7.19 #
+
+1. 继续调整参数，进行充分的测试和分析，进一步优化方法和流程。至少达到80%的准确率
+
+2. 学习python爬虫和AI等课程。
+
+3. 学习证券基金期货法规课程。
+
+4. 继续体会数字的玄学变换，实际应用，想办法进行落地实现。  6189/8347/4921/2763 
+
 
