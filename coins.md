@@ -1,13 +1,9 @@
-## 300 1
-## 200 2
-## 150 3
-### filecoin 4-5  60w
-### filecoin 5-6  500w
-### filecoin 6-7  500w
-### filecoin 7-8  500w
-### filecoin 8-9  600w
-### filecoin 9-10 600w
-### filecoin 10-11 600w
+# Ref
+
+
+
+
+
 * https://blockcast.it/
 * https://www.blocktempo.com/physics-2045-about-solana-and-sbf-ray-mining/
 * https://earning.tw/what-is-sol/
@@ -74,3 +70,4 @@
 * https://github.com/madMAx43v3r/mmx-node
 
 Metamask 钱包
+
