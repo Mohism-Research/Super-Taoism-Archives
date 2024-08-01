@@ -211,3 +211,4 @@
 * image ai stability.ai
 * Netdata prometheus+grafana+netdata+Thanos+Alertmanager+Consul
 * PDS Process Scheduler https://liquorix.net/
+* icon 图库 https://icons8.com/
