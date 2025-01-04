@@ -213,3 +213,4 @@
 * PDS Process Scheduler https://liquorix.net/
 * icon 图库 https://icons8.com/
 * https://research.aimultiple.com/
+* 论坛查询 https://discover.discourse.org/
