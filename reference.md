@@ -215,3 +215,4 @@
 * https://research.aimultiple.com/
 * 论坛查询 https://discover.discourse.org/
 * 开源排行榜 https://github.com/best-of-lists/best-of
+* 量化课程购买 https://udcourse.com/product/algo-trade-camp-algo-trading-bootcamp-2024/
