@@ -218,3 +218,4 @@
 * 量化课程购买 https://udcourse.com/product/algo-trade-camp-algo-trading-bootcamp-2024/
 * google ai https://aistudio.google.com/prompts/new_chat
 * google firebase https://studio.firebase.google.com/?hl=zh-cn
+* 一键python flutter app 到处运行 pyhttps://github.com/flet-dev/flet
