@@ -220,3 +220,4 @@
 * google firebase https://studio.firebase.google.com/?hl=zh-cn
 * 一键python flutter app 到处运行 pyhttps://github.com/flet-dev/flet
 * 高效工作 https://x.com/baozong_facai/status/1937036649977856201
+* 在线内容实时搜索 https://hn.algolia.com/
