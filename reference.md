@@ -192,7 +192,7 @@
 * 电源测试 https://www.fcpowerup.com/review/psu-review/
 * 硬件论坛 https://www.chiphell.com/
 * https://anthonygarvan.github.io/thousandstars/
-* 投资 https://btcdayu.gitbook.io/dayu/
+* bitcoin投资 https://btcdayu.gitbook.io/dayu/
 * bitcoin 分析 https://platform.arkhamintelligence.com/
 * 黑手册 https://github.com/JelloHuang/darkhandbook
 * 空投查询 https://airdroptracker.notion.site
@@ -221,3 +221,4 @@
 * 一键python flutter app 到处运行 pyhttps://github.com/flet-dev/flet
 * 高效工作 https://x.com/baozong_facai/status/1937036649977856201
 * 在线内容实时搜索 https://hn.algolia.com/
+
