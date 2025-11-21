@@ -222,3 +222,4 @@
 * 高效工作 https://x.com/baozong_facai/status/1937036649977856201
 * 在线内容实时搜索 https://hn.algolia.com/
 * 八字 https://52zwbc.com/bazi/index.html
+* 古籍在线 https://www.shidianguji.com/
