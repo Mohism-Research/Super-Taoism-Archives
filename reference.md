@@ -223,3 +223,4 @@
 * 在线内容实时搜索 https://hn.algolia.com/
 * 八字 https://52zwbc.com/bazi/index.html
 * 古籍在线 https://www.shidianguji.com/
+* 立刻古蹟 https://www.likeguji.com/
