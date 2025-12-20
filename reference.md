@@ -224,4 +224,5 @@
 * 八字 https://52zwbc.com/bazi/index.html
 * 古籍在线 https://www.shidianguji.com/
 * 立刻古蹟 https://www.likeguji.com/
-* https://planetcalc.com/9198/
+* 均时差https://planetcalc.com/9198/
+* 真太阳时 https://fate.windada.com/cgi-bin/SolarTime_gb gmt+8就是中国时间中国120度，紫金山为准
