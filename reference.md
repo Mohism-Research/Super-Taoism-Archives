@@ -227,3 +227,4 @@
 * 均时差https://planetcalc.com/9198/
 * 真太阳时 https://fate.windada.com/cgi-bin/SolarTime_gb gmt+8就是中国时间中国120度，紫金山为准
 * 中国古典文献资源导航系统 https://www.wenxianxue.cn/
+* 苹果破解 https://macked.app/wondershare-filmora-x-crack.html
