@@ -148,83 +148,196 @@
 
 
 * Slashdot https://slashdot.org/
+
 * Hacker news 国外咨询网站 https://news.ycombinator.com/
+
 * https://www.solidot.org/
+
 * https://thenextweb.com/
+
 * sms https://sms-activate.org/
+
 * https://freertoskernel.asicfans.com/
+
 * https://www.geeksforgeeks.org
+
 * hue postman
+
 * https://www.midjourney.com/ logo 生成器
+
 * Obsidian
+
 * markdown map https://markmap.js.org/repl
+
 * https://github.com/lynchjames/obsidian-mind-map
+
 * KeyShot工具渲染PCB
+
 * Behance
+
 * Obsidian
+
 * markdown mindmap https://markmap.js.org/repl
+
 * Phusion Passenger 
+
 * usb installer https://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/
+
 * 国外开源电动车论坛 https://endless-sphere.com/sphere/
+
 * 欧洲汽车电子协会 https://vesc-project.com/
+
 * 行业数据库查询 http://pdf.dfcfw.com/
+
 * https://www.cyberciti.biz/
+
 * https://www.producthunt.com/
+
 * startup https://techcrunch.com/ 
+
 * 日历 https://www.wannianli8.com/huangli23042100
+
 * https://www.deepinghost.com/
+
 * https://www.pinterest.com/pin/844493672299995/
+
 * https://www.pinterest.com/pin/336784878397749547/
+
 * https://www.pinterest.com/pin/4433299626929728/
+
 * https://www.etsy.com/hk-en/market/taos_poster?ref=cq_tag_raised_image-8
+
 * 修理 https://zh.ifixit.com/#
+
 * fengshui https://www.ydygfs.com/
+
 * 雇佣 https://www.freelancer.com/
+
 * 创作众筹平台 https://www.patreon.com/workshopnation
+
 * 可视化 https://observablehq.com/d/1f75f342999728ea
+
 * 林群院士 数学
+
 * 道藏电子化搜索 有好几个版本 https://www.kanripo.org/
+
 * 道藏电子化搜索 http://www.homeinmists.com/
+
 * 神機藏書.md
+
 * 氣功之家 https://chinaqigong.com/forum.php
+
 * 装机 https://arstechnica.com/civis/
+
 * awesome https://animagraffs.com/human-eye/
+
 * 电源测试 https://www.fcpowerup.com/review/psu-review/
+
 * 硬件论坛 https://www.chiphell.com/
+
 * https://anthonygarvan.github.io/thousandstars/
+
 * bitcoin投资 https://btcdayu.gitbook.io/dayu/
+
 * bitcoin 分析 https://platform.arkhamintelligence.com/
+
 * 黑手册 https://github.com/JelloHuang/darkhandbook
+
 * 空投查询 https://airdroptracker.notion.site
+
 * 銀河網開 https://galxe.com/
+
 * 天梯图 https://www.videocardbenchmark.net/directCompute.html
+
 * smspool https://www-smspool-net.webpkgcache.com/doc/-/s/www.smspool.net/
+
 * 可视化数据python版 dash https://plotly.com/get-demo/ 
+
 * 遠程桌面 RustDesk
+
 * iplocate
+
 * markdown 美化网站 www.gitbook.io
+
 * 浏览器指纹 https://www.browserscan.net/
+
 * 論壇模板 openai elastic數據搜索公司 等都在用 https://www.discourse.org/
+
 * openai community https://community.openai.com/
+
 * 國內linux 論壇 https://linux.do/
+
 * claude ai claude.ai
+
 * image ai stability.ai
+
 * Netdata prometheus+grafana+netdata+Thanos+Alertmanager+Consul
+
 * PDS Process Scheduler https://liquorix.net/
+
 * icon 图库 https://icons8.com/
+
 * https://research.aimultiple.com/
+
 * 论坛查询 https://discover.discourse.org/
+
 * 开源排行榜 https://github.com/best-of-lists/best-of
+
 * 量化课程购买 https://udcourse.com/product/algo-trade-camp-algo-trading-bootcamp-2024/
+
 * google ai https://aistudio.google.com/prompts/new_chat
+
 * google firebase https://studio.firebase.google.com/?hl=zh-cn
+
 * 一键python flutter app 到处运行 pyhttps://github.com/flet-dev/flet
+
 * 高效工作 https://x.com/baozong_facai/status/1937036649977856201
+
 * 在线内容实时搜索 https://hn.algolia.com/
+
 * 八字 https://52zwbc.com/bazi/index.html
+
 * 古籍在线 https://www.shidianguji.com/
+
 * 立刻古蹟 https://www.likeguji.com/
+
 * 均时差https://planetcalc.com/9198/
+
 * 真太阳时 https://fate.windada.com/cgi-bin/SolarTime_gb gmt+8就是中国时间中国120度，紫金山为准
+
 * 中国古典文献资源导航系统 https://www.wenxianxue.cn/
+
 * 苹果破解 https://macked.app/wondershare-filmora-x-crack.html
+
+* ai 打游戏 https://nitrogen.minedojo.org/
+
+
+
+* https://rv8.io/
+* https://www.librecores.org/
+* www.riscv.org
+* https://cnrv.io/resource
+* www.lowrisc.org
+* https://carrv.github.io/
+* http://eliaskousk.teamdac.com/entry/welcome
+* https://www.imperialviolet.org/
+* https://git.tiband.de/band/tinyfinger
+* https://pulp-platform.org/projectinfo.html
+* https://www.semi.org/en
+* www.semiengineering.com
+* https://abopen.com
+* http://www.prweb.com/
+* https://open-isa.cn/
+* http://www-inst.eecs.berkeley.edu/~cs250/fa13/handouts/lab2-riscv.pdf
+* https://news.ycombinator.com/item?id=15343331
+* https://gitlab.com/shaktiproject
+* singgox all version https://getsingbox.com/
+* 小网盘 https://wwwv.lanzn.com/
+* 快捷安装各种插件 https://1panel.cn/
+* terraform安装各种云 https://developer.hashicorp.com/terraform
+* Remotion
+  * Remotion + GSAP 
+  * Remotion + D3.js 
+  * Remotion + Lottie 
+  * Remotion + Three.js
+  *  Remotion + Canvas (Fabric/P5)
