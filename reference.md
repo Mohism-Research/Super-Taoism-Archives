@@ -335,7 +335,7 @@
 * 小网盘 https://wwwv.lanzn.com/
 * 快捷安装各种插件 https://1panel.cn/
 * terraform安装各种云 https://developer.hashicorp.com/terraform
-* Remotion
+* youtube Remotion
   * Remotion + GSAP 
   * Remotion + D3.js 
   * Remotion + Lottie 
@@ -344,3 +344,7 @@
 * apify 云端爬虫 https://apify.com/
 * A free, fast, and reliable CDN for JS and open source jsDelivr https://www.jsdelivr.com/ 
 * 相对安全的apk download https://www.apkmirror.com/
+* youtube视频素材 www.storyblocks.com
+* youtube画图工具 www.excalidraw.com
+* google seo blackhatworld.com
+* 製作網站 https://framer.com/
