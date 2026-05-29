@@ -351,3 +351,8 @@
 * 古籍多 www.gujiduo.com
 * 八字ai www.fatemaster.ai
 * 八字 openfate.ai
+* 八字 https://tianfu-ai.com/
+* https://destinylinker.github.io/MingLi-Bench/
+* https://www.bazi-lab.com/zh
+* https://bazilabs.com/zh
+* https://startupfa.me/s/bazi-lab-1
