@@ -350,3 +350,4 @@
 * 製作網站 https://framer.com/
 * 古籍多 www.gujiduo.com
 * 八字ai www.fatemaster.ai
+* 八字 openfate.ai
