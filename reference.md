@@ -356,3 +356,4 @@
 * https://www.bazi-lab.com/zh
 * https://bazilabs.com/zh
 * https://startupfa.me/s/bazi-lab-1
+* 去水印 https://github.com/GargantuaX/gemini-watermark-remover 
