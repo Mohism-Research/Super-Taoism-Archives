@@ -335,7 +335,7 @@
 * 小网盘 https://wwwv.lanzn.com/
 * 快捷安装各种插件 https://1panel.cn/
 * terraform安装各种云 https://developer.hashicorp.com/terraform
-* youtube Remotion
+* youtube Remotion https://www.youtube.com/watch?v=8UEWit__gCI&t=115s
   * Remotion + GSAP 
   * Remotion + D3.js 
   * Remotion + Lottie 
