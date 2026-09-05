@@ -359,5 +359,15 @@
 * 去水印 https://github.com/GargantuaX/gemini-watermark-remover 
 * 国家中医药古籍数字图书馆 www.cintcm.com
 * 本物 很多書籍 https://simplelits.com/
+* Youtube 下载 https://youtubetoolkit.com/
 * 各種期刊 https://catalog.loc.gov/
 
+
+
+
+
+##### AI
+
+* https://openrouter.ai/
+* https://tokenra.io/dashboard/overview
+* https://oxalpha.io/
