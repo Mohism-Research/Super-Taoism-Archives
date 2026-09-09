@@ -372,3 +372,4 @@
 * https://openrouter.ai/
 * https://tokenra.io/dashboard/overview
 * https://oxalpha.io/
+* 免费获取很多token OmniRoute https://github.com/diegosouzapw/OmniRoute
