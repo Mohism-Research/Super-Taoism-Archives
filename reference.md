@@ -363,6 +363,7 @@
 * Youtube 下载 https://transcript.lol/tools/youtube-to-mp4
 * 各種期刊 https://catalog.loc.gov/
 * 八字网站 https://butcherboy.com.sg/
+* 八字网站 https://asklingxi.com/zh-tw
 
 
 
@@ -374,7 +375,7 @@
 * https://arkm.com/explorer/address/0xeA13dDdd1Dbf1ae97F9E8576Cf63ad51E9a0731a
 * https://defillama.com/ai
 * GeckoTerminal
-* 
+* Banana Gun、Maestro 的发币端变种
 
 ##### AI
 
