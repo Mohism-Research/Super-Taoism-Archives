@@ -365,6 +365,7 @@
 * 八字网站 https://butcherboy.com.sg/
 * 八字网站 https://asklingxi.com/zh-tw
 * 八字网站 ß∂∑™´®††¥¨¨ˆˆˆøøøπππππ¬˚˚∆∆˙˙©©ƒƒƒƒ∂åååΩ≈≈ç√∫˜˜˜˜µ≤≤≥≤≤≥≥≥≥https://www.deeporacle.ai/bazi/blog/branch-sanxing-chou-xu-wei
+* 八字网站 https://huaman.pub/
 
 
 
@@ -377,6 +378,7 @@
 * https://defillama.com/ai
 * GeckoTerminal
 * Banana Gun、Maestro 的发币端变种
+* https://www.coinglass.com/InflowAndOutflow
 
 ##### AI
 
@@ -385,3 +387,15 @@
 * https://oxalpha.io/
 * 免费获取很多token OmniRoute https://github.com/diegosouzapw/OmniRoute
 * IntelliJ-based IDE vs JetBrains 
+
+
+
+
+
+想有财运而且能守的住，请帮忙分析一下，一个最重要的点就是不要被丁火给反消耗了，比如一直看手机，看书，只要夜晚有光好像对命主都不好。不消耗亏损就是相当于赚的理念，就比如股市别人都亏，我没有亏其实本质上就是赚了，然后在没有亏的基础上，找到一个机遇就可以立马起来了，因为我有本金，别人没有。我想表达的是不消耗亏损就是相当于赚的理念！另外怎么能更好的拥有财富，一是能镇的住丁，二是能守得住戌。丑土对戌的刑相比其他种类的危害如何，比如子卯 ，辰辰自刑。
+
+
+
+
+
+癸水在丑月，另外年干甲（祖上）也是在丑月，一个是冰冻的水，一个是在寒冬的大树，其实都都不太好过的。
